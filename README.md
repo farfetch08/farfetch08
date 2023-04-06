@@ -18,7 +18,14 @@ An innovative and driven individual with a passion for technology and problem-so
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=farfetch08&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="300px"/>
+
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=farfetch08&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
