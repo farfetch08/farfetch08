@@ -31,8 +31,6 @@ An innovative and driven individual with a passion for technology and problem-so
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="300px"/>
 
 
 
