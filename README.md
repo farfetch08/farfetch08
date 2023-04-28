@@ -1,9 +1,9 @@
 
 <h1>Hi👋, I am Harshit Kumar</h1>
 
-<img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
 
-<h2 align="left">
+<h2 align="justify">
 An innovative and driven individual with a passion for technology and problem-solving. I am constantly seeking new challenges and opportunities to grow and improve. My determination and resilience have helped me overcome obstacles and achieve my goals. I am confident in my abilities and strive to make a positive impact in everything I do.
 
   <br>
