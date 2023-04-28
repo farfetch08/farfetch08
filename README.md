@@ -3,7 +3,7 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 
-<h2 align="justify">
+<h2 align="left">
 An innovative and driven individual with a passion for technology and problem-solving. I am constantly seeking new challenges and opportunities to grow and improve. My determination and resilience have helped me overcome obstacles and achieve my goals. I am confident in my abilities and strive to make a positive impact in everything I do.
 
   <br>
