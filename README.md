@@ -1,5 +1,6 @@
 
-<h1>Hi👋, I am Harshit Kumar</h1>
+<h1 align="center">Hi<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35">, I am Harshit</h1>
+
 
 <img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
 
@@ -12,7 +13,7 @@ An innovative and driven individual with a passion for technology and problem-so
 
 
 
-## 🌐 Socials:
+## 🌐<img src="https://tenor.com/bApNd.gif"> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farfetch.08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-kumar-1384371a0) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/farfetch08) 
 
 # 💻 Tech Stack:
