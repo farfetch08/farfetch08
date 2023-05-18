@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35">, I am Harshit</h1>
+<h1 align="center">Hi<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35">, I am Harshit <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="35"></h1>
 
 
 <img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
