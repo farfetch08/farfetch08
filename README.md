@@ -5,8 +5,7 @@
 <img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
 
 <h2 align="left">
-An innovative and driven individual with a passion for technology and problem-solving. I am constantly seeking new challenges and opportunities to grow and improve. My determination and resilience have helped me overcome obstacles and achieve my goals. I am confident in my abilities and strive to make a positive impact in everything I do.
-
+I'm a passionate and driven individual with a strong tech focus. I thrive on challenges and constantly seek opportunities to grow. With determination and resilience, I've overcome obstacles to achieve my goals. I strive to make a positive impact and embrace new challenges for personal and professional growth.
   <br>
   <br>
 </h2>
