@@ -2,9 +2,10 @@
 <h1 align="center">Hi<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35">, I am Harshit <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="35"></h1>
 
 
-<img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350"/>
+<img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
 
-<h2 align="left">
+<h2 align="justify">
+  
 I'm a passionate and driven individual with a strong tech focus. I thrive on challenges and constantly seek opportunities to grow. With determination and resilience, I've overcome obstacles to achieve my goals. I strive to make a positive impact and embrace new challenges for personal and professional growth.
   <br>
   <br>
