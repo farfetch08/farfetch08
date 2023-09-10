@@ -2,11 +2,11 @@
 <h1 align="center">Hi<img src="https://c.tenor.com/EBmx3jdTXH0AAAAi/smiley-emoji.gif" width="35">, I am Harshit <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="35"></h1>
 
 
-<img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>
+<!--<img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="250"/>-->
+
 
 <h2 align="justify">
-  
-I'm a passionate and driven individual with a strong tech focus. I thrive on challenges and constantly seek opportunities to grow. With determination and resilience, I've overcome obstacles to achieve my goals. I strive to make a positive impact and embrace new challenges for personal and professional growth.
+  I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand.
   <br>
   <br>
 </h2>
